@@ -35,6 +35,10 @@ them out.
 
 ## scDNA
 
+##### Mutation Calling
+
+##### Copy Number
+
 ## scRNA
 
 scRNA is the most extensive documented area with a plethora of
@@ -45,6 +49,19 @@ tutorials.
 | Link                                                                         | Authors                                                         | Publication                                                    |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- |
 | [Orchestrating Single-Cell Analysis](Orchestrating%20Single-Cell%20Analysis) | [Bioconductor](https://osca.bioconductor.org/contributors.html) | [Reference](https://www.nature.com/articles/s41592-019-0654-x) |
+
+##### Classes
+
+| Topic                        | Author | References |
+| ---------------------------- | ------ | ---------- |
+| **Pre-Processing**           |        |            |
+| **Normalization**            |        |            |
+| **Feature Selection**        |        |            |
+| **Dimensionality Reduction** |        |            |
+| **Clustering**               |        |            |
+| **Cell Annotation**          |        |            |
+| **Pseudotime**               |        |            |
+| **RNA Velocity**             |        |            |
 
 ## scATAC
 
