@@ -67,4 +67,8 @@ tutorials.
 
 ## Integrating data
 
+| Topic                                                                                     | Authors                   | Publication                    |
+| ----------------------------------------------------------------------------------------- | ------------------------- | ------------------------------ |
+| [**Integrative single-cell analysis**](https://www.nature.com/articles/s41576-019-0093-7) | Tim Stuart & Rahul Satija | doi: 10.1038/s41576-019-0093-7 |
+
 ## Flow Cytometry
