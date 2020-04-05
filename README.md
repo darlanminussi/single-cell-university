@@ -84,7 +84,7 @@ tutorials.
 
 | Topic                                                                                                                   | Author                                   | References |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------- |
-| QC - Dimensional Reduction - Clustering - Marker genes(<https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html>) | Alex Wolf, Fidel Ramirez, Sergei Rybakov |            |
+| [QC - Dimensional Reduction - Clustering - Marker genes](https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html) | Alex Wolf, Fidel Ramirez, Sergei Rybakov |            |
 
 ## scATAC
 
