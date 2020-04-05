@@ -3,11 +3,13 @@ title: "Single Cell University"
 output: github_document
 ---
 
-Single-cell is a rapid and exciting evolving field. There is a lot of resources and classes and slides scattered online but it is hard for someone just starting to collect their thoughts and follow a guide that can help them start their single-cell learning path.
+Single-cell is a rapid and exciting evolving field. Numerous resources and classes/slides are scattered online. To make it easier for someone just starting to collect this repository intends to work as a guide that can help people start their single-cell learning path.
 
 The idea of this repository is to act as a tentative curriculum that encompasses different areas where single-cell can serve as an important tool for scientific discovery. The intention is not to collect every single tutorial in existence but aggregate the best resources that can give a comprehensive overview of the field.
 
-PRs are extremely welcomed, together we can make a comprehensive and dynamic evolving curriculum for single-cell. I tried my best to give credits to authors of the tutorials/videos/slides, if you find anything incorrectly or would like to have it removed from this repository please let me know and it'll be quickly fixed.
+PRs are extremely welcomed, together we can make a comprehensive and dynamic evolving curriculum for single-cell. 
+
+This repository would not exist if not for the awesome people that make their materials publicly available. I tried my best to give credits to authors of the tutorials/videos/slides, if you find anything incorrectly or would like to have it removed from this repository please let me know and it'll be quickly fixed.
 
 Some of the fields haven't yet developed dedicated workshops/classes so they will be presented as tutorials of specific tools that are available.
 
@@ -20,6 +22,13 @@ This repository was largely inspired by awesome initiatives such as [OSSU](https
 
 ## Biology
 
+
+## Programming
+
+| Topic | Author | References  |
+|---|---|---|
+| [R for Data Science](https://r4ds.had.co.nz/) | Garrett Grolemund & Hadley Wickham | |
+| [Ggplot2](https://www.youtube.com/watch?v=h29g21z0a68) | Thomas Lin Pedersen | |
 
 
 ## Single-cell history
@@ -52,10 +61,24 @@ scRNA is the most extensive documented area with a plethora of tutorials.
 | **Pseudotime**  |  |
 | **RNA Velocity**  |  |
 
+**Seurat**
+
+| Topic | Author | References  |
+|---|---|---|
+| [QC - Dimensional Reduction - Clustering - DE](https://satijalab.org/seurat/v3.1/pbmc3k_tutorial.html) | [Satija lab](https://satijalab.org) | [1](https://www.nature.com/articles/nbt.3192) |
+
+**Scanpy**
+
+| Topic | Author | References  |
+|---|---|---|
+| QC - Dimensional Reduction - Clustering - Marker genes(https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html) | Alex Wolf, Fidel Ramirez, Sergei Rybakov | |
+
 ## scATAC
 
 
 ## Integrating data
+
+**Reading**
 
 | Topic  | Authors   | Publication |
 |---|---|---|
